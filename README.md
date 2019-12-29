@@ -7,4 +7,4 @@
   <li>Unity Package and Targets Folder (Link Provided in the description)</li>
 </ul>
 <a href="https://drive.google.com/file/d/1QMMQdD05Ew1Ay7oGONOFif4wtGZSUxsP/view?usp=sharing">Download Unity Package</a>
-<a hread="Targets" download> Download Targets Folder</a>
+<a href="Targets" download> Download Targets Folder</a>
