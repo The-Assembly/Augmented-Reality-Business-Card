@@ -1,7 +1,7 @@
 # Augmented-Reality-Business-Card
 ## Prerequisites:
 <ul>
-  <li>Unity v2019.1.4 (Make Sure That You Have The Right Version)</li>
+  <li>Unity <b>v2019.1.4</b> (Make Sure That You Have The Right Version)</li>
   <li>Vuforia Support for Unity</li>
   <li>iOS/Android Build Support (Optional, iOS Support requires macOS and the latest version of XCode</li>
   <li>Unity Package and Targets Folder (Link Provided in the description)</li>
