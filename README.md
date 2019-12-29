@@ -1,4 +1,4 @@
-# Augmented-Reality-Business-Card
+# Build an Augmented Reality Application Using Unity
 ## Prerequisites:
 <ul>
   <li>Unity <b>v2019.1.4</b> (Make Sure That You Have The Right Version)</li>
